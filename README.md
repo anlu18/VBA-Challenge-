@@ -12,9 +12,6 @@ This project involves analyzing stock market data over a three-year period (2014
 - **Percent Change:** The percentage difference between the opening price at the beginning of the year and the closing price at the end of the year.
 - **Total Stock Volume:** The sum of the stock's trading volume over the year.
 
-### Script Details
-The VBA script used for this analysis is located in the `VBAStocks` folder of this repository, and the script file is named `Multiple_year_stock_data_KM.xlsm`.
-
 ### Sample Output
 Upon running the script, the results are displayed directly in the Excel workbook. The output includes the yearly change, percent change, and total volume for each stock. 
 
